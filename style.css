@@ -1,0 +1,339 @@
+#firstdiv{
+    background-color: darkblue;
+}   
+
+#firstdiv ul{
+    margin-left: 90px;
+    display: inline-block;
+}
+
+#firstdiv li{
+    display: inline-block;
+    padding: 5px;
+}
+
+#firstdiv .imgs{
+    width: 22px;
+    height: 22px;
+    border-radius: 0.5cm;
+}
+
+#firstdiv .imgs:hover{
+    cursor: pointer;
+    background-color:blue;
+}
+
+
+#firstdiv p{
+    display: inline-block;
+    margin-left: 160px;
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+#firstdiv #ukd{
+    margin-left: 60px;
+}
+
+#firstdiv button{
+    background-color: lightgray;     
+    color: green;
+    border-width: 1px;
+    height: 30px;
+    width: 80px;
+    font-size: 0.70em;   
+    border-radius: 0.1cm; 
+}
+
+#firstdiv button:hover{
+    cursor: pointer;
+}
+
+
+#mainmanu{
+    background-color: #f7f8fa;
+    vertical-align: 0px;    
+}
+
+#imgdiv img{
+    width: 191px;
+    height: 52px;
+    margin-left: 100px;
+}
+
+#seconddiv li #home:hover{
+    background-color: lightseagreen;
+}
+
+
+#seconddiv #home{
+    font-family: sans-serif;
+    color:#666666;
+    display: inline-block;
+    margin-left: 150px;
+    background-color: blue;
+    padding: 8px 16px;
+    border-radius: 1cm;
+    color: #f7f8fa;
+    text-decoration-line: none;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer; 
+}   
+
+
+#seconddiv li{
+    display: inline-block;
+ }
+
+
+ #seconddiv .maintab{
+    /* display: inline-block; */
+    padding: 8px 16px;
+    border-radius: 1cm;
+    color: black;
+    text-decoration-line: none;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+ }
+ 
+#seconddiv li .maintab:hover{
+    background-color: blue;
+    color: #f7f8fa;
+}
+
+
+#seconddiv #lastcolumn{
+    margin-left: 140px;
+}
+
+#imgdonation{
+width: 1335px;
+height: 515px;
+align-items: center;
+margin-bottom: 0px;
+}
+
+#news{
+    background-color:#316DC3;
+    color: white;
+    margin-top: 2px;
+    margin-left: 120px;
+    margin-right: 130px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+#maindiv{
+    background-color: #f7f8fa;
+
+}
+
+#thirddiv{
+    margin-bottom: 0px;
+}
+
+#introduction {
+    /* margin: 0px 0px 10px; */
+    text-align: center;
+    margin: auto;
+    width: 900px;
+
+ }
+
+#introduction h1{
+    display: inline-block;
+}
+
+#intro{
+    color: blue;
+    font-family: serif;
+    font-size: 30px;
+}
+
+#duction{
+    color: rgba(4, 85, 4, 0.904);
+    font-family: serif;
+    font-size: 30px;
+}
+
+#introduction p{
+    color: #666666;
+    text-align: justify;
+    font-family: serif;
+    font-size: 17px;
+}
+
+#upward{
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    bottom: 30px;
+    right: 50PX;
+    border-radius: 1cm;
+}
+
+#fourthdiv{
+    background-color: rgba(36, 79, 242, 0.8);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#stats{
+    text-align: center;
+    margin: auto;
+    padding: 40PX;
+}
+
+#stats img{
+    height: 40px;
+    width: 40px;
+    margin-bottom: 0px;
+    border-radius: 1cm;
+}
+
+#stats h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    color: white;
+    font-family: 'calibri';   
+}
+
+#stats h4{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 22px;
+    color: white;
+    font-family: 'calibri';   
+}
+
+#stats h3{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 24.5px;
+    color: rgb(62, 236, 62);
+    font-family: 'calibri';   
+}
+
+#stats td{
+    padding: 15px;
+}
+
+
+#fifthddiv{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#whatdoing {
+    margin-top: 0px;
+    text-align: center;
+    margin: auto;
+    border-spacing: 30px 30px;
+ }
+
+
+#whatdoing h1{
+    display: inline-block;
+}
+
+#what{
+    color: blue;
+    font-family: serif;
+    font-size: 30px;
+    /* margin-bottom: 0px; */
+    height: 0px;
+    padding: 0px 0px;
+}
+
+#doing{
+    color: rgba(4, 85, 4, 0.904);
+    font-family: serif;
+    font-size: 30px;
+    /* margin: 0px 0px; */
+    height: 0px;
+    padding: 0px 0px;
+}
+
+
+.whatwearedoing td{
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    background-color: white;
+    margin: 0px 0px 30px;
+    font-family: calibri;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+ }
+
+
+.whatwearedoing img{
+    width: 70px;
+    height: 70px;
+    border-radius: 1cm;
+    cursor: pointer;
+}
+
+.whatwearedoing h3{
+    font-size: 22px;
+    color: #316DC3;
+}
+
+
+#sixthdiv{
+    background-color: white;
+}
+
+
+#missionprojects{
+    margin-top: 0px;
+    text-align: center;
+    margin: auto;
+    border-spacing: 30px 10px;
+}
+
+#missionprojects h1{
+font-size: 24px;
+color: #316DC3;
+font-family: sans-serif;
+text-align: left;
+border-bottom: inset  0.5px;
+}
+
+#missionprojects #upcomingevents{
+    max-width: 10px;
+    text-align: left;
+    font-family: calibri;
+}
+
+.projects img{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 1cm;
+    position: relative;
+    top: 9.5px;
+    right: 30px;
+}
+
+.projects h4{
+    font-size: 16px;
+    color: #316DC3;
+    font-family: sans-serif;
+    display: inline-block;
+    font-weight: bold;
+
+    }
+    
+.projects{
+background-color: #f7f8fa;
+height: 15px;
+width: 300px;
+
+}
